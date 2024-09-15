@@ -1,8 +1,8 @@
-# IT60112 Web Fundamentals Course
+# IT6012 Web Fundamentals Course
 
 ## Course Overview
 
-The **IT60112 Web Fundamentals** course is designed to provide a comprehensive introduction to the building blocks of web development. This course will take you behind the scenes of website creation, introducing the essential components of web design and implementation, with a focus on HTML, CSS, and JavaScript. By the end of this course, you will have the foundational skills needed to create a multi-page website and apply best practices in web development.
+The **IT6012 Web Fundamentals** course is designed to provide a comprehensive introduction to the building blocks of web development. This course will take you behind the scenes of website creation, introducing the essential components of web design and implementation, with a focus on HTML, CSS, and JavaScript. By the end of this course, you will have the foundational skills needed to create a multi-page website and apply best practices in web development.
 
 ## Course Aim
 
